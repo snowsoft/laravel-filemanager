@@ -5,7 +5,7 @@
 | Documentation for this config :
 |--------------------------------------------------------------------------
 | online  => http://unisharp.github.io/laravel-filemanager/config
-| offline => vendor/unisharp/laravel-filemanager/docs/config.md
+| offline => vendor/snowsoft/laravel-filemanager/docs/config.md
  */
 
 return [

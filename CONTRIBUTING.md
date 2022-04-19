@@ -8,6 +8,6 @@
     composer require unisharp/laravel-filemanager:dev-master
     make init
     ```
-1. Edit codes in `vendor/unisharp/laravel-filemanager`
+1. Edit codes in `vendor/snowsoft/laravel-filemanager`
 1. Push your changes to your fork.
 1. Send a pull request to [unisharp/laravel-filemanager](https://github.com/UniSharp/laravel-filemanager).
